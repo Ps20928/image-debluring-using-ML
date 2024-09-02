@@ -6,20 +6,6 @@
 
   * **Dataset  => https://www.kaggle.com/kwentar/blur-dataset.**
 
-* Get the dataset and extract it inside the `input` folder. Following is the directory structure for the project:
-
-  ```
-  ├───input
-  │   ├───defocused_blurred
-  │   ├───gaussian_blurred
-  │   ├───motion_blurred
-  │   └───sharp
-  ├───outputs
-  │   └───saved_images
-  └───src
-  ```
-
-
 
 ## Steps to Execute
 
@@ -41,16 +27,7 @@
 
   **Final Deblurred Image**
 
-  ![](https://github.com/sovit-123/image-deblurring-using-deep-learning/blob/master/outputs/saved_images/val_deblurred39.jpg?raw=true)
-
-
-
-## <u>Future Work</u>
-
-* To deblur the spatially variant images inside the `defocused_blurred` and `motion_blurred` folders.
-* Add more and better models to `models.py` script. 
-* **Any useful contribution to the project is highly appreciated.**
-
+  ![](https://github.com/Ps20928/image-debluring-using-ML/blob/main/test_data/image_1.jpg?raw=true)
 
 
 ## <u>References</u>
