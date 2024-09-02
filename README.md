@@ -33,9 +33,7 @@
 
 ## <u>Some Results</u>
 
-* **Loss Plot**
 
-  ![](https://github.com/sovit-123/image-deblurring-using-deep-learning/blob/master/outputs/loss.png?raw=true)
 
 * **Blurred Image**
 
