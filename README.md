@@ -37,7 +37,7 @@
 
 * **Blurred Image**
 
-  ![](https://github.com/sovit-123/image-deblurring-using-deep-learning/blob/master/outputs/saved_images/blur0.jpg?raw=true)
+  ![](https://github.com/Ps20928/image-debluring-using-ML/blob/main/test_data/gaussian_blurred/image_1.jpg?raw=true)
 
   **Final Deblurred Image**
 
